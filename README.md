@@ -8,7 +8,7 @@ chmod +x canon_lbp_setup.sh
 ```
 ### Notes
 After installation, there will be a shortcut on your Desktop. Run it to check your printer status (if it shows "Ready to Print", the printer is ready to use)
-For LBP2900, use LBP3000
+### For LBP2900, use LBP3000
 ### Supported Models
 - LBP-810
 - LBP1120
